@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClassHW1</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="SIGNUP">註冊</string>
+    <string name="username">username</string>
+</resources>
